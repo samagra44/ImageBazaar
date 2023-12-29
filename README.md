@@ -81,3 +81,5 @@ The project follows a typical Django project structure with additional directori
   - Accessible at [http://localhost:8000/admin/](http://localhost:8000/admin/) for managing users, images, and categories.
 
 Feel free to explore and customize the project based on your preferences. You can enhance the application by adding features such as image tags, search functionality, or user profiles.
+
+![Capture](https://github.com/samagra44/ImageBazaar/assets/77968722/8e23e55b-fab3-4b76-9f6d-f5ae34393c82)
